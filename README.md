@@ -13,4 +13,4 @@ Sergio Maldonado - Ing. Petrolero
 
 Jose Antonio Rodríguez - Ing. Sistemas (ITESM)
 
-Adalberto Benítez - Ing. Industrial (UDLAP)
+Adalberto Benítez Zapata - Ing. Industrial (UDLAP)
